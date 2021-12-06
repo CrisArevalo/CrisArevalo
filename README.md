@@ -5,10 +5,10 @@ Hi, im Cristian Arevalo, im currently learning some technologies for apply in a 
 ```javascript
 const aboutMe = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, HTML, CSS, React],
   tools: [Git, VSC],
   degree: [Junior],
-  testing: [AVA],
+  testing: [AVA, Jest],
   sources: [Udemy, University],
   challenge: "Find a Job as Frontend Developer"
 }
